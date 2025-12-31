@@ -3,7 +3,7 @@
 Mi primer proyecto en Python. Es un pequeño sistema para manejar pedidos de café, menú y historial.  
 
 ## Cómo usarlo
-- Ejecuta `python main.py`
+- Ejecuta `main.py`
 
 ## Archivos
 - `main.py` → archivo principal
